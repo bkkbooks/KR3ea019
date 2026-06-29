@@ -1,0 +1,324 @@
+canonical_identifier: bkk:krp/KR3ea019/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ea019/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 運氣證治歌訣
+  identifiers:
+    krp: KR3ea019
+  tags:
+    kr-categories: KR3ea
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ea019.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ea019_000-jc.yaml, hash: 'sha256:6580ed0619afc478afba3dcfbab691931568faa87fc6fbec101452a0fdd2a32a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ea019_000-jc.markers.yaml, hash: 'sha256:8bde11e2d80c735f92c8e4f4b891585ad361a3e3f83b7dd6fb2cc318dc43f0e8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 299
+  label: 總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3.h1s1
+    span:
+    - body
+    - 299
+    - 10663
+  label: 三因司天運氣方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d2
+    span:
+    - body
+    - 306
+    - 660
+  label: 一苓朮湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d3
+    span:
+    - body
+    - 660
+    - 1018
+  label: 二麥門冬湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d4
+    span:
+    - body
+    - 1018
+    - 1349
+  label: 三附子山萸湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d5
+    span:
+    - body
+    - 1349
+    - 1734
+  label: 四牛膝木瓜湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d6
+    span:
+    - body
+    - 1734
+    - 2040
+  label: 五川連茯苓湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d7
+    span:
+    - body
+    - 2040
+    - 2261
+  label: 六蓯蓉牛膝湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d8
+    span:
+    - body
+    - 2261
+    - 2558
+  label: 七黃耆茯苓湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d9
+    span:
+    - body
+    - 2558
+    - 2750
+  label: 八白朮厚朴湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d10
+    span:
+    - body
+    - 2750
+    - 3550
+  label: 九紫菀湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d11
+    span:
+    - body
+    - 3550
+    - 3979
+  label: 十一靜順湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d12
+    span:
+    - body
+    - 3979
+    - 4459
+  label: 十二審平湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d13
+    span:
+    - body
+    - 4459
+    - 4928
+  label: 十三升明湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d14
+    span:
+    - body
+    - 4928
+    - 5342
+  label: 十四備化湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d15
+    span:
+    - body
+    - 5342
+    - 5782
+  label: 十五正陽湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d16
+    span:
+    - body
+    - 5782
+    - 7628
+  label: 十六敷和湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d17
+    span:
+    - body
+    - 7628
+    - 7718
+  label: 附司天運氣圖歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d18
+    span:
+    - body
+    - 7718
+    - 8005
+  label: 司天歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d19
+    span:
+    - body
+    - 8005
+    - 8299
+  label: 主運歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d20
+    span:
+    - body
+    - 8299
+    - 8566
+  label: 客運歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d21
+    span:
+    - body
+    - 8566
+    - 8839
+  label: 主氣歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d22
+    span:
+    - body
+    - 8839
+    - 9479
+  label: 客氣歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d23
+    span:
+    - body
+    - 9479
+    - 9797
+  label: 天符歲會總歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d24
+    span:
+    - body
+    - 9797
+    - 9881
+  label: 又天符歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d25
+    span:
+    - body
+    - 9881
+    - 9942
+  label: 又太乙天符歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d26
+    span:
+    - body
+    - 9942
+    - 10028
+  label: 又歲會歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d27
+    span:
+    - body
+    - 10028
+    - 10144
+  label: 司天在泉六淫治例
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d28
+    span:
+    - body
+    - 10144
+    - 10194
+  label: 六淫勝復治例
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea019_jc_000-d3d29
+    span:
+    - body
+    - 10194
+    - 10663
+  label: 六淫治法歌
+  type: section
+  level: 2
+hash: sha256:4c9c191944aec4bbd483ecf9353a38edd41201076601e1fbf83da8ade7636732
