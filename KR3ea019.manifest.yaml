@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ea019_000.yaml, hash: 'sha256:190427eb15db161af6bef2f6ce17fa42345d52adf802deaafe5e700dbb6aedd9'}
+  - {seq: 0, filename: KR3ea019_000.yaml, hash: 'sha256:6580ed0619afc478afba3dcfbab691931568faa87fc6fbec101452a0fdd2a32a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ea019_000.markers.yaml, hash: 'sha256:70b45b35bde59acf4c1dd4bad6d037b9e3a2a4aec3a97594f7a68ee510d7819a'}
+  - {seq: 0, role: markers, filename: assets/KR3ea019_000.markers.yaml, hash: 'sha256:4b86f4274f6330fe54f82e873f2638d74fddc9df138fec5398b95ed2180936c9'}
 table_of_contents:
 - ref:
     seq: 0
@@ -321,7 +321,4 @@ table_of_contents:
   label: 六淫治法歌
   type: section
   level: 2
-hash: sha256:657e5d9e0e708e1c66d4d50a51c514e0edc859522812ca4436e44320581a3b5b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9866e88199547997aa61cf906c0b92edb25674fee45da040937fe569544848a1
