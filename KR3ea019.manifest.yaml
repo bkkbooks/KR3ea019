@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ea019/v1
 canonical_location: https://kanripo.org/bkk/KR3ea019/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 運氣證治歌訣
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ea019_000.yaml, hash: 'sha256:6580ed0619afc478afba3dcfbab691931568faa87fc6fbec101452a0fdd2a32a'}
+  - {seq: 0, filename: KR3ea019_000.yaml, hash: 'sha256:a78564e76ac5450df8890d08cc753b599adfab35523af3a8467347fab17fbc98'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ea019_000.markers.yaml, hash: 'sha256:4b86f4274f6330fe54f82e873f2638d74fddc9df138fec5398b95ed2180936c9'}
+  - {seq: 0, role: markers, filename: assets/KR3ea019_000.markers.yaml, hash: 'sha256:9cb123a2fd75f889f24dcd9305674867ffef15ad00ef78e6df8f60907d0ec580'}
 table_of_contents:
 - ref:
     seq: 0
@@ -321,4 +321,7 @@ table_of_contents:
   label: 六淫治法歌
   type: section
   level: 2
-hash: sha256:9866e88199547997aa61cf906c0b92edb25674fee45da040937fe569544848a1
+hash: sha256:e51bcfa07a6a8f6beaf93d8b669e9c6fbb4b894da263954513b1de073822e0c0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
